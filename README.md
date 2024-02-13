@@ -3,7 +3,7 @@ Welcome to my GitHub repository! I'm Ihor Stanovyi, and I'm thrilled to have you
 
 Here's a little bit about me:
 - Background: I come from Kyiv, Ukraine, and am passionate about Web Development.
-- Skills: I specialize in HTML, CSS, and JavaScript, but I'm always eager to learn and explore new technologies.
+- Skills: I specialize in **HTML**, **CSS**, and **JavaScript**, but I'm always eager to learn and explore new technologies.
 - Projects: You'll find a variety of projects here, each reflecting my dedication and creativity.
 - Collaboration: I'm open to collaboration and feedback. Feel free to reach out if you have any suggestions or if you'd like to work together on something exciting!
 
