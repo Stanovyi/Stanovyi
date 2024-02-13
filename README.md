@@ -10,3 +10,5 @@ Here's a little bit about me:
 Thanks for stopping by, and enjoy exploring my repository! If you have any questions or just want to connect, don't hesitate to drop me a message.
 
 Happy coding! 🚀
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stanovyi&theme=radical)
