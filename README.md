@@ -11,4 +11,4 @@ Thanks for stopping by, and enjoy exploring my repository! If you have any quest
 
 Happy coding! 🚀
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stanovyi&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stanovyi&theme=tokyonight)
