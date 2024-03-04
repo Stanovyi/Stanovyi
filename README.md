@@ -19,7 +19,6 @@ Happy coding! 🚀
     <!-- GitHub Stats Card -->  
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=Stanovyi&theme=tokyonight&hide_border=true"/></td>
     <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Stanovyi&theme=tokyonight&hide_border=true"/></td>
-    <td valign="top"><img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=qboww&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Stanovyi&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"></td>
   </tr>
 </table>
