@@ -13,6 +13,4 @@ Here's a little bit about me:
 
 Happy coding! 🚀
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stanovyi&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Stanovyi&theme=tokyonight" alt="mystreak"/>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stanovyi&theme=tokyonight)<img src="https://github-readme-streak-stats.herokuapp.com/?user=Stanovyi&theme=tokyonight" alt="mystreak"/>
