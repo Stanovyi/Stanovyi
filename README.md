@@ -14,5 +14,12 @@ Here's a little bit about me:
 Happy coding! 🚀
 
 ### GitHub stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stanovyi&theme=tokyonight)
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Stanovyi&theme=tokyonight)
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=Stanovyi&theme=tokyonight&hide_border=true"/></td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"><img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Stanovyi&theme=tokyonight&hide_border=true"/></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=qboww&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"></td>
+  </tr>
+</table>
