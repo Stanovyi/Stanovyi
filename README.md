@@ -22,3 +22,6 @@ Happy coding! 🚀
     <td valign="top"><img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Stanovyi&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"></td>
   </tr>
 </table>
+
+[![Linkedin](https://img.shields.io/badge/Linkedin-2CA5E0?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ihor-stanovyi)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ihor_stanovyi)
