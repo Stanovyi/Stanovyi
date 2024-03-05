@@ -7,7 +7,7 @@
 Welcome to my GitHub repository! I'm Ihor Stanovyi, and I'm thrilled to have you here. This space is where I showcase my projects, share my journey, and collaborate with others in the amazing world of software development.
 
 Here's a little bit about me:
-- Background: I come from Kyiv, Ukraine, and am passionate about Web Development.
+- Background: I come from Ukraine, and am passionate about Web Development.
 - Projects: You'll find a variety of projects here, each reflecting my dedication and creativity.
 - Collaboration: I'm open to collaboration and feedback. Feel free to reach out if you have any suggestions or if you'd like to work together on something exciting!
 
