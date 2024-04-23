@@ -12,7 +12,7 @@ Here's a little bit about me:
 - Collaboration: I'm open to collaboration and feedback. Feel free to reach out if you have any suggestions or if you'd like to work together on something exciting!
 
 ### Currently working with
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,vite,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,vite,figma&theme=dark)](https://skillicons.dev)
 
 ***Thanks for stopping by, and enjoy exploring my repository! If you have any questions or just want to connect, don't hesitate to drop me a message.***
 
