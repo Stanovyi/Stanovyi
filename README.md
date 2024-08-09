@@ -12,8 +12,6 @@ Here's a little bit about me:
 
 ***Thanks for stopping by, and enjoy exploring my repository! If you have any questions or just want to connect, don't hesitate to drop me a message.***
 
-Happy coding! 🚀
-
 ### GitHub stats
 <table cellpadding="0">
   <tr style="padding: 0">
